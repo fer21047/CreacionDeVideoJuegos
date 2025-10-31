@@ -1,10 +1,9 @@
 # Creación de Videojuegos - GIDS5101
 
-**Autor:** Alan Omar Venegas Cadena
+**Autor:** Fernando Moncada Juarez
 **Grupo:** GIDS5101
 **Institución:** UTNG
 **Materia:** Creación de Videojuegos
-**Periodo:** Decimo
 
 ---
 
