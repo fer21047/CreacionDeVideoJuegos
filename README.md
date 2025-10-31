@@ -72,13 +72,6 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 **Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1nICyk9xhsDNJuNW3wzZAOBQqPIporAPy/view?usp=sharing)  
 
-### Tutorial 05
-
-**Tema:** [Mover un Personaje]  
-**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
-**Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing)  
-
 ---
 
 ## Retos
