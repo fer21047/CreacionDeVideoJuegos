@@ -14,11 +14,15 @@
 3. [Tutoriales](#tutoriales-y-recursos)  
    - [Tutorial 01](#tutorial-01)  
    - [Tutorial 02](#tutorial-02)  
-   - [Tutorial 03](#tutorial-03)  
+   - [Tutorial 03](#tutorial-03)
+   - [Tutorial 04](#tutorial-04)
+  
 4. [Retos](#retos)  
    - [Reto 01](#reto-01)  
    - [Reto 02](#reto-02)  
-   - [Reto 03](#reto-03)  
+   - [Reto 03](#reto-03)
+   - [Reto 04](#reto-04)
+   - [Reto 05](#reto-05)  
 
 ---
 
@@ -44,35 +48,35 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 **Tema:** [Agregar Fondo y Movimiento al jugador ]  
 **Descripción:** [Este tutorial muestra el proceso para crear un fondo para nuestro juego rpg y el prpceso para realizar el movimiento de nuestro jugador]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1ng0NU5S2-T4qXgYvwQS-9hbjgsXKDJOm/view?usp=sharing)  
 
 ### Tutorial 02
 
-**Tema:** [Mover un Personaje]  
-**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Tema:** [Animacion del personaje]  
+**Descripción:** [Este reto muestra el proceso para animar un personaje en los sentidos de norte, sur, este y oeste]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1U07R8GcFjQURX893EkQjU3SSi4z3VnbJ/view?usp=sharing)  
 
 ### Tutorial 03
 
-**Tema:** [Mover un Personaje]  
-**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Tema:** [Agregar NPC]  
+**Descripción:** [Se muestra el proceso para agregar otro npc y este no se sobre ponga sobre nuestro jugador]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1mN6fjbm9_Q7CBDfdUJw8lnuoefnfFkr_/view?usp=sharing)  
 
 ### Tutorial 04
 
-**Tema:** [Mover un Personaje]  
-**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Tema:** [NPC Enemigo]  
+**Descripción:** [En este tutorial se crea un nuevo NPC sin ebargo este es un npc enemigo el cual nuestro jugador detecte y pueda comenzar una batalla]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1nICyk9xhsDNJuNW3wzZAOBQqPIporAPy/view?usp=sharing)  
 
 ### Tutorial 05
 
 **Tema:** [Mover un Personaje]  
 **Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing)  
 
 ---
