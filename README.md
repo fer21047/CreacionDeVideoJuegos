@@ -67,7 +67,7 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 **Tema:** [Agrega tema aquí]  
 **Descripción:** [Breve descripción del reto]  
 **Evidencias:** [https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing]
-**Evidencias:** [https://drive.google.com/drive/folders/1JwLcsgmw_0MWx00pdRF2MK7oFSahS1ax?usp=sharing]  
+**Evidencias:** [https://drive.google.com/file/d/13hQ37oa6AX0eBLT5t5mEwVvJYZ0CJQiS/view?usp=sharing]  
 
 ### Reto 02
 
