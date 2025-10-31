@@ -11,16 +11,11 @@
 
 1. [Introducción](#introducción)  
 2. [Objetivo del Repositorio](#objetivo-del-repositorio)  
-3. [Estructura del Repositorio](#estructura-del-repositorio)  
-4. [Prácticas](#prácticas)  
-   - [Práctica 01](#práctica-01)  
-   - [Práctica 02](#práctica-02)  
-   - [Práctica 03](#práctica-03)  
-5. [Tutoriales y Recursos](#tutoriales-y-recursos)  
+3. [Tutoriales](#tutoriales-y-recursos)  
    - [Tutorial 01](#tutorial-01)  
    - [Tutorial 02](#tutorial-02)  
    - [Tutorial 03](#tutorial-03)  
-6. [Retos](#retos)  
+4. [Retos](#retos)  
    - [Reto 01](#reto-01)  
    - [Reto 02](#reto-02)  
    - [Reto 03](#reto-03)  
@@ -43,39 +38,7 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 ---
 
-## Estructura del Repositorio
-
-Se recomienda mantener la siguiente estructura de carpetas:
-
-
----
-
-## Prácticas
-
-### Práctica 01
-
-**Tema:** [Agrega tema aquí]  
-**Fecha:** [Fecha]  
-**Descripción:** [Breve descripción]  
-**Evidencias:** Capturas, videos, PDFs.
-
-### Práctica 02
-
-**Tema:** Construir un mundo con un Asset de tu preferencia y animarlo a través del video **Mixamo**  
-**Fecha:** Viernes 03 de Octubre del 2025  
-**Descripción:** Se desarrolló un entorno virtual utilizando assets 3D y animaciones importadas de Mixamo.  
-**Evidencias:** Capturas del mundo construido, video de animación, archivo del proyecto.
-
-### Práctica 03
-
-**Tema:** [Agrega tema aquí]  
-**Fecha:** [Fecha]  
-**Descripción:** [Breve descripción]  
-**Evidencias:** [Agrega evidencias]
-
----
-
-## Tutoriales y Recursos
+## Tutoriales
 
 ### Tutorial 01
 
