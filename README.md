@@ -42,21 +42,38 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 ### Tutorial 01
 
-**Tema:** [Agrega tema aquí]  
-**Descripción:** [Breve descripción del tutorial]  
-**Enlace / Archivo:** [URL o ruta del archivo]  
+**Tema:** [Agregar Fondo y Movimiento al jugador ]  
+**Descripción:** [Este tutorial muestra el proceso para crear un fondo para nuestro juego rpg y el prpceso para realizar el movimiento de nuestro jugador]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1ng0NU5S2-T4qXgYvwQS-9hbjgsXKDJOm/view?usp=sharing)  
 
 ### Tutorial 02
 
-**Tema:** [Agrega tema aquí]  
-**Descripción:** [Breve descripción del tutorial]  
-**Enlace / Archivo:** [URL o ruta del archivo]  
+**Tema:** [Mover un Personaje]  
+**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1U07R8GcFjQURX893EkQjU3SSi4z3VnbJ/view?usp=sharing)  
 
 ### Tutorial 03
 
-**Tema:** [Agrega tema aquí]  
-**Descripción:** [Breve descripción del tutorial]  
-**Enlace / Archivo:** [URL o ruta del archivo]  
+**Tema:** [Mover un Personaje]  
+**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1mN6fjbm9_Q7CBDfdUJw8lnuoefnfFkr_/view?usp=sharing)  
+
+### Tutorial 04
+
+**Tema:** [Mover un Personaje]  
+**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1nICyk9xhsDNJuNW3wzZAOBQqPIporAPy/view?usp=sharing)  
+
+### Tutorial 05
+
+**Tema:** [Mover un Personaje]  
+**Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing)  
 
 ---
 
@@ -66,20 +83,37 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 **Tema:** [Mover un Personaje]  
 **Descripción:** [Este reto muestra la creacion de un personaje que puede moverse y saltar mediante nuestro teclado]  
-**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)
-**Video:** [Video Evidencia](https://drive.google.com/file/d/13hQ37oa6AX0eBLT5t5mEwVvJYZ0CJQiS/view?usp=sharing)
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1cvWarm72GV02FxCteu1ngejkuyDQKoitLb0OE1Qp1CM/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/drive/folders/15_F_Ti_BO_7Jd5vHAFx7G6itOvTm2ttO?usp=sharing)
 
 ### Reto 02
 
-**Tema:** [Agrega tema aquí]  
-**Descripción:** [Breve descripción del reto]  
-**Solución / Evidencias:** [Capturas, videos o archivos]  
+**Tema:** [Menu Principal]  
+**Descripción:** [Diseñar y programar un menú principal funcional en Unity que permita navegar entre escenas y controlar acciones básicas (iniciar juego, opciones, salir).]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1Q6cZvzb_XQhtUQgpQ4tsq6rDhWlNZZzjqWll9csw0vY/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1DiiUX7eIfn7fbbhUM1d1iJC7PupcogFY/view?usp=sharing)
 
 ### Reto 03
 
-**Tema:** [Agrega tema aquí]  
-**Descripción:** [Breve descripción del reto]  
-**Solución / Evidencias:** [Capturas, videos o archivo]  
+**Tema:** [Creacion De Juego Mediante Videos]  
+**Descripción:** [Se realizo el seguimiento de 2 videos para lograr el movimiento y salto de un personaje dentro de un pequño mundo]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1436p1kp5_WoYol3ZDFnVRthi4D11IV4HBw6WbnOIMfk/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/drive/folders/1JwLcsgmw_0MWx00pdRF2MK7oFSahS1ax?usp=sharing)  
+
+### Reto 04
+
+**Tema:** [Barra de Vida]  
+**Descripción:** [En este reto se implementaron los conocimientos adquiridos para que un personaje tuviera afectaciones por objetos que le disminuyan vida]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1QkiJhnIXLeEGLcz8AoXRmPn-7jodyZxWuL16SLcNXqE/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1HWLxMaQ4DwfF4RUccYAd1Im7FsBIl8Id/view?usp=sharing)  
+
+
+### Reto 05
+
+**Tema:** [Juego Multijugador con Photon PUN 2 en Unity]  
+**Descripción:** [En este reto se implementaron los conocimientos adquiridos para crear un proyecto multijugador en el que dos objetos de tipo player puedan moverse en tiempo real simultaneamente]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1E6WOfKFiwBf0mNilpE-mTJpN-8BHifBqaMVH0B9vGfw/edit?tab=t.0)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/12eH4uAO9tp9v_urbtuks67XgJ3rk5ffF/view?usp=sharing)  
 
 
 
