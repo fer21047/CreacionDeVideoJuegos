@@ -60,17 +60,24 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 ### Tutorial 03
 
-**Tema:** [Agregar NPC]  
-**Descripción:** [Se muestra el proceso para agregar otro npc y este no se sobre ponga sobre nuestro jugador]  
+**Tema:** [Agregar Coliciones]  
+**Descripción:** [Se muestra el proceso para que el jugador no pueda traspasar objetos  
 **Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
 **Video:** [Video Evidencia](https://drive.google.com/file/d/1mN6fjbm9_Q7CBDfdUJw8lnuoefnfFkr_/view?usp=sharing)  
 
 ### Tutorial 04
 
+**Tema:** [Agregar NPC]  
+**Descripción:** [Se muestra el proceso para agregar otro npc y este no se sobre ponga sobre nuestro jugador]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1nICyk9xhsDNJuNW3wzZAOBQqPIporAPy/view?usp=sharing)  
+
+### Tutorial 05
+
 **Tema:** [NPC Enemigo]  
 **Descripción:** [En este tutorial se crea un nuevo NPC sin ebargo este es un npc enemigo el cual nuestro jugador detecte y pueda comenzar una batalla]  
 **Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
-**Video:** [Video Evidencia](https://drive.google.com/file/d/1nICyk9xhsDNJuNW3wzZAOBQqPIporAPy/view?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing) 
 
 ---
 
