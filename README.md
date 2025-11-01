@@ -86,7 +86,7 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 **Tema:** [Dialogo Con NPC]  
 **Descripción:** [En este tutorial se muestra la manera de configurar un dialogo a NPCs que se tienen, unicamente se muestra la manera en como poder realizar el textDialog]  
 **Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
-**Video:** [Video Evidencia](https://drive.google.com/file/d/1zRn_MXCEFTyQsxjf12GGnjlBIFBurvJg/view?usp=sharing) 
+**Video:** [Video Evidencia](https://drive.google.com/file/d/169HnPHuck_LsTB-zLoVOOdrGRAmy5CNR/view?usp=sharing) 
 
 ---
 
