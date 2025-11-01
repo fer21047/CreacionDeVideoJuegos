@@ -17,6 +17,7 @@
    - [Tutorial 03](#tutorial-03)
    - [Tutorial 04](#tutorial-04)
    - [Tutorial 05](#tutorial-05)
+   - [Tutorial 06](#tutorial-06)
   
 4. [Retos](#retos)  
    - [Reto 01](#reto-01)  
@@ -78,7 +79,14 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 **Tema:** [NPC Enemigo]  
 **Descripción:** [En este tutorial se crea un nuevo NPC sin ebargo este es un npc enemigo el cual nuestro jugador detecte y pueda comenzar una batalla]  
 **Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
-**Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing) 
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1-grovbyOe5R5sVuD4LmBcD-lb4WlxNfb/view?usp=sharing)  
+
+### Tutorial 06
+
+**Tema:** [Dialogo Con NPC]  
+**Descripción:** [En este tutorial se muestra la manera de configurar un dialogo a NPCs que se tienen, unicamente se muestra la manera en como poder realizar el textDialog]  
+**Evidencias:** [Evidencias](https://docs.google.com/document/d/1JKG6vRonIdamSmCqejnp2rEaGCEjUY8fUzFSuYIe0hE/edit?usp=sharing)  
+**Video:** [Video Evidencia](https://drive.google.com/file/d/1zRn_MXCEFTyQsxjf12GGnjlBIFBurvJg/view?usp=sharing) 
 
 ---
 
